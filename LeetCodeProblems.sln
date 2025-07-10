@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems", "LeetCodeProblems\LeetCodeProblems.csproj", "{25F3B77D-EC40-4051-9A2F-22B811BC1549}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Number of Event that can be attended", "Maximum Number of Event that can be attended\Maximum Number of Event that can be attended.csproj", "{C1DA867A-9E29-416A-A798-2044022E1935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion ( using Taylor Series )", "Recursion ( using Taylor Series )\Recursion ( using Taylor Series ).csproj", "{DA817F15-69E4-4111-B823-8AAD4F73EA9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C1DA867A-9E29-416A-A798-2044022E1935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1DA867A-9E29-416A-A798-2044022E1935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1DA867A-9E29-416A-A798-2044022E1935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA817F15-69E4-4111-B823-8AAD4F73EA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA817F15-69E4-4111-B823-8AAD4F73EA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA817F15-69E4-4111-B823-8AAD4F73EA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA817F15-69E4-4111-B823-8AAD4F73EA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
