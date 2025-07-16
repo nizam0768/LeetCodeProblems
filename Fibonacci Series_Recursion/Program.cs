@@ -23,8 +23,8 @@
         for (int i = 0; i <= n; i++)
             memo[i] = -1; // Initialize memoization array with -1
         Program program = new Program();
-        int rfi = program.rfib(n);
-        int memoizedResult = program.memoizedFib(n, memo);
+        int rfi = program.rfib(n); // Calculate Fibonacci number using recursion
+        int memoizedResult = program.memoizedFib(n, memo); // Calculate Fibonacci number using memoization
         Console.WriteLine(memoizedResult);
     }
 }
