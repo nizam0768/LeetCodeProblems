@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHenoi_Recursion", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Series_Recursion", "Fibonacci Series_Recursion\Fibonacci Series_Recursion.csproj", "{D1A1CBE2-3D63-49EF-82E8-422D276DBC1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesfromSortedArray", "RemoveDuplicatesfromSortedArray\RemoveDuplicatesfromSortedArray.csproj", "{2F4B191C-23B5-4A53-9445-A6868C36475D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D1A1CBE2-3D63-49EF-82E8-422D276DBC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A1CBE2-3D63-49EF-82E8-422D276DBC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A1CBE2-3D63-49EF-82E8-422D276DBC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
