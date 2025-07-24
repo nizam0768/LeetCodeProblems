@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Series_Recursion"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesfromSortedArray", "RemoveDuplicatesfromSortedArray\RemoveDuplicatesfromSortedArray.csproj", "{2F4B191C-23B5-4A53-9445-A6868C36475D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertInToArray", "InsertInToArray\InsertInToArray.csproj", "{22F6A24E-4712-4DCD-A606-82ECEC93D77D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F4B191C-23B5-4A53-9445-A6868C36475D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F6A24E-4712-4DCD-A606-82ECEC93D77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F6A24E-4712-4DCD-A606-82ECEC93D77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F6A24E-4712-4DCD-A606-82ECEC93D77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F6A24E-4712-4DCD-A606-82ECEC93D77D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
