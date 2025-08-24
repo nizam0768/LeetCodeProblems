@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteFromArray", "DeleteFr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch_InArray", "LinearSearch_InArray\LinearSearch_InArray.csproj", "{BB6D0B4E-915F-4038-B24E-E64743970E13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{978DC7AD-836D-40A6-9C86-50D55D94B843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{23BA73C2-CEE9-4488-96B8-FBE5CF628B8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{BB6D0B4E-915F-4038-B24E-E64743970E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB6D0B4E-915F-4038-B24E-E64743970E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB6D0B4E-915F-4038-B24E-E64743970E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978DC7AD-836D-40A6-9C86-50D55D94B843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978DC7AD-836D-40A6-9C86-50D55D94B843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978DC7AD-836D-40A6-9C86-50D55D94B843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978DC7AD-836D-40A6-9C86-50D55D94B843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BA73C2-CEE9-4488-96B8-FBE5CF628B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BA73C2-CEE9-4488-96B8-FBE5CF628B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BA73C2-CEE9-4488-96B8-FBE5CF628B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BA73C2-CEE9-4488-96B8-FBE5CF628B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
