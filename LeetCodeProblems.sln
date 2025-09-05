@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashing_UsingChaining", "Hashing_UsingChaining\Hashing_UsingChaining.csproj", "{62FA3B52-195B-4310-A953-7923ACE44861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hasing_throughLinearProbing", "Hasing_throughLinearProbing\Hasing_throughLinearProbing.csproj", "{E2E4184E-1931-41ED-8839-599C84EFD7DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{62FA3B52-195B-4310-A953-7923ACE44861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62FA3B52-195B-4310-A953-7923ACE44861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62FA3B52-195B-4310-A953-7923ACE44861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E4184E-1931-41ED-8839-599C84EFD7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E4184E-1931-41ED-8839-599C84EFD7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E4184E-1931-41ED-8839-599C84EFD7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E4184E-1931-41ED-8839-599C84EFD7DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
